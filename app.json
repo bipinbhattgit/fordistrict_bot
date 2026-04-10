@@ -1,4 +1,8 @@
-{
+"name": "fordistrict_bot",
+"description": "fordistrict_bot to help you forward restricted content",
+"logo": "https://cdn.prod.website-files.com/6462655e6f1811aabe80d8bd/665c8ce3f6bcf07bb1643c43_Top%2010%20Telegram%20channel%20bots-1.png",
+"keywords": ["python3", "telegram", "MusicBot", "telegram-bot", "pyrogram"],
+ "repository": "https://github.com/BipinBhatt1/fordistrict_bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
